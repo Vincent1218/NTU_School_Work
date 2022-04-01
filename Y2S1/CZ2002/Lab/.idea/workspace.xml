@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e9aa8d5-aadd-447a-8cd3-3a0e61bb5c45" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MyFirstProgram/MyFirstProgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/CZ2101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CZ2101/P1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CZ1115_Presentation_Google_Slides_Google_Chrome_2021_04_15_16_30.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CZ1115_Presentation_Google_Slides_Google_Chrome_2021_04_15_16_46.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cz1115/Exercise7/Exercise7_Problem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cz1115/Exercise7/Exercise7_Problem.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Cz1115/miniproj/FSP7_Team02.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/../../Cz1115/miniproj/FSP7_Team02.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Recording 2021-04-19 at 5.41.32 PM.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Recording 2021-04-19 at 5.47.06 PM.mov" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Screen Recording 2021-04-19 at 5.48.42 PM.mov" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zAlesNFGOiagFnbbNpr1hu5DJk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e9aa8d5-aadd-447a-8cd3-3a0e61bb5c45" name="Changes" comment="" />
+      <created>1633598872269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633598872269</updated>
+    </task>
+    <servers />
+  </component>
+</project>
